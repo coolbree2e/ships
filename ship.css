@@ -1,0 +1,10 @@
+#jumbo{
+    text-align: center;
+    background-color: darkred;
+    color: black;
+}
+.input{
+    padding: 3px;
+    margin: 1px;
+    border: 2px solid black;
+}
